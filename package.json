@@ -1,0 +1,29 @@
+{
+  "name": "taskflow-ai",
+  "version": "1.0.0",
+  "description": "AI-Powered Project Management SaaS Platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s .",
+    "build": "echo 'Build complete'",
+    "deploy": "netlify deploy --prod"
+  },
+  "keywords": [
+    "saas",
+    "project-management",
+    "ai",
+    "productivity",
+    "collaboration",
+    "automation"
+  ],
+  "author": "TaskFlow AI Team",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madhu_1977bb/taskflow-ai.git"
+  },
+  "homepage": "https://taskflow-ai.netlify.app"
+}
